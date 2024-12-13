@@ -1,0 +1,12 @@
+*{
+    margin: 0; /* Remoção de  todas as margens ao redor do elemento */
+    padding: 0;  /* Remoção de todo o preenchimento interno do elemento */
+    font: inherit;  /* Faz com que o elemento herde todas as propriedades de fonte */
+}
+
+body{
+    min-height: 100vh;
+    background-color: #0f0f0fcc;
+    color: #f3f3f3;
+    font-family: "Poppins", sans-serif; /* Fontes do texto como "Poppins", com uma fonte sans-serif como fallback */
+}
