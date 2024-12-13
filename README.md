@@ -7,9 +7,9 @@ Este é o meu portfólio digital, onde você pode explorar uma seleção de proj
 - [JavaScript]
 
 🚀 Funcionalidades
-Exibição de projetos em destaque, com detalhes e links para os repositórios.
-Seção de contato, onde você pode se conectar comigo.
-Design responsivo para adaptação a diferentes dispositivos.
+- Exibição de projetos em destaque, com detalhes e links para os repositórios.
+- Seção de contato, onde você pode se conectar comigo.
+- Design responsivo para adaptação a diferentes dispositivos.
 
 💡 Objetivo
-Este portfólio serve como uma demonstração do meu trabalho.
+- Este portfólio serve como uma demonstração do meu trabalho.
